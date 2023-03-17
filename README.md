@@ -8,7 +8,7 @@
 
 ## Mis gustos personales
 1. Me encanta viajar, cada vez que puedo lo hago, aunque sea cerca de mi casa.
-![MDQ](/Imagen/viaje1.jpg "MDQ") ![Bogota](/Imagen/viaje%202.jpg "Bogota") ![Toluca](/Imagen/viaje%205.jpg "Botanico, Toluca, Mx)
+![MDQ](/Imagen/viaje1.jpg "MDQ") ![Bogota](/Imagen/viaje%202.jpg "Bogota") ![Toluca](/Imagen/viaje%205.jpg "Botanico, Toluca, Mx")
 
 2. Me gusta, aunque no tengo mucho tiempo, mirar series en [Netflix](https://www.netflix.com/ar/) o en [HBO max](https://www.hbomax.com/ar/es)
 
