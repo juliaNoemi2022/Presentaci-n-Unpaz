@@ -1,0 +1,23 @@
+{
+  "name": "press",
+  "version": "1.0.0",
+  "description": "![yo](/Imagen/julia.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliaNoemi2022/Presentaci-n-Unpaz.git"
+  },
+  "author": "julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliaNoemi2022/Presentaci-n-Unpaz/issues"
+  },
+  "homepage": "https://github.com/juliaNoemi2022/Presentaci-n-Unpaz#readme",
+  "dependencies": {
+    "espress": "^0.0.0"
+  }
+}
